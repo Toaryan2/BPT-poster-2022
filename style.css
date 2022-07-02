@@ -1,0 +1,84 @@
+.p2{
+    display: flex;
+    justify-content: center;
+}
+.p1{
+    background-image: url(aryan3.jpg);
+    background-repeat: no-repeat;
+    background-size: 270px 270px;
+    text-align: center;
+    letter-spacing: 0.3rem;
+    
+}
+h1{
+     font-weight: bolder;
+     text-decoration: underline;
+     color: rgb(198, 16, 180);
+}
+p{
+    color:black;
+    font-size: medium;
+    font-weight: bolder;
+}
+.p3{
+    background-color: rgba(14, 182, 229, 0.927);
+    background-size: 80rem 350rem;
+    text-align: center;
+}
+.h2{
+    font-weight: bolder;
+    color:rgb(101, 20, 207);
+    
+}
+.p6{
+    background-image: url(aryan2.jpg);
+    background-repeat: no-repeat;
+    background-size: 90rem 65rem;
+}
+.p4{
+    text-align-last: center;
+   text-align: left;
+   margin-right: 40rem;
+   font-size: medium;
+   font-weight: 100;
+   display: flex;
+   font-weight: 900;
+   
+}
+
+.p7{
+    color: black;
+    border: black;
+    border-width: 8 px;
+    border-style: dashed;
+}
+.p4 img{
+     border-radius: 1rem;
+     margin-left: 1rem;
+     margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+     
+}
+.p5{
+    text-align-last: center;
+   text-align: left;
+   margin-left: 40rem;
+   margin-right: 3rem;
+   font-size: medium;
+   font-weight: 100;
+   display: flex;
+   font-weight: 900;
+}
+.p5 img{
+    border-radius: 1rem;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+   margin-bottom: 0.5rem;
+}
+.p8{
+    background-color: rgb(109, 155, 125);
+    background-size: 80rem 350rem;
+    text-align: center;
+}
+
